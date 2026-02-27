@@ -174,4 +174,4 @@ git commit -m 'kick off olist challenge'
 git push origin master
 ```
 
-Tebrikler! Artık `olist` için tamamen hazırsınız 🚀
+Tebrikler! Artık `olist` için tamamen hazırsınız 🚀🚀
